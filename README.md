@@ -25,7 +25,7 @@ The inspiration for this project came from the need to have a straightforward to
 
 ## Note
 - **Data clears on every refresh**: Be aware that all data will be cleared upon refreshing the page.
-- **Future Enhancements**: An advanced version with persistent dependance upon user's local storage and additional features will be available soon.
+- **Future Enhancements**: An advanced version with persistent dependance upon user's local storage and additional features is available [here](https://github.com/mridun-gupta/KanbanBoard-2.0).
 ---
 
 With this project, you’re not just creating a task management tool – you’re setting the stage for a more advanced version of yourself that will enhance your workflow even further.
