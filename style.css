@@ -204,20 +204,6 @@ a {
     }
 }
 
-@keyframes blink {
-    0% {
-        opacity: 100%;
-    }
-
-    50% {
-        opacity: 25%;
-    }
-
-    100% {
-        opacity: 100%;
-    }
-}
-
 @keyframes highlight {
     0% {
         filter: drop-shadow(0rem 0rem 0rem #AD88F2);
